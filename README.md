@@ -1,8 +1,14 @@
-# Equipe
-Componentes do grupo
+## Teste CI&T
 
 ## UC - Gestão e Qualidade de Software
+#### Curso: Análise e Desenvolvimento de Sistemas
+Prof.ª: Rafaela Moreira e Vanessa Cristina
 
+### Proposta do Desafio:
+Esse é um desafio proposto pela empresa CI&T, para a seleção de uma pessoa Engenheira de Software, que irá atuar na empresa como QA.
+Foi apresentado o site: https://opentdb.com/ no qual será utilizado para testes, onde serão apresentados 3 cenários utilizando a linguagem Gherkin.<br><br>
+
+### Desenvolvedores <a href="url"><img src="https://www.pngfind.com/pngs/m/40-405156_github-octocat-logo-black-and-white-transparent-github.png" align="left" height="48" width="48" ></a> <br><br>
 
 Nome      |   RA        
 --------- | ------
